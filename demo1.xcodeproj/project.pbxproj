@@ -11,6 +11,7 @@
 		E906487B170ECB9700EF9ADA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E906487A170ECB9700EF9ADA /* main.m */; };
 		E906487F170ECB9700EF9ADA /* demo1.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = E906487E170ECB9700EF9ADA /* demo1.1 */; };
 		E9064887170ECBAC00EF9ADA /* DemoFile.m in Sources */ = {isa = PBXBuildFile; fileRef = E9064886170ECBAC00EF9ADA /* DemoFile.m */; };
+		E906488A170ECE2D00EF9ADA /* DemofileX.m in Sources */ = {isa = PBXBuildFile; fileRef = E9064889170ECE2D00EF9ADA /* DemofileX.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		E906487E170ECB9700EF9ADA /* demo1.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = demo1.1; sourceTree = "<group>"; };
 		E9064885170ECBAC00EF9ADA /* DemoFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoFile.h; sourceTree = "<group>"; };
 		E9064886170ECBAC00EF9ADA /* DemoFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoFile.m; sourceTree = "<group>"; };
+		E9064888170ECE2D00EF9ADA /* DemofileX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemofileX.h; sourceTree = "<group>"; };
+		E9064889170ECE2D00EF9ADA /* DemofileX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemofileX.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 				E906487C170ECB9700EF9ADA /* Supporting Files */,
 				E9064885170ECBAC00EF9ADA /* DemoFile.h */,
 				E9064886170ECBAC00EF9ADA /* DemoFile.m */,
+				E9064888170ECE2D00EF9ADA /* DemofileX.h */,
+				E9064889170ECE2D00EF9ADA /* DemofileX.m */,
 			);
 			path = demo1;
 			sourceTree = "<group>";
@@ -146,6 +151,7 @@
 			files = (
 				E906487B170ECB9700EF9ADA /* main.m in Sources */,
 				E9064887170ECBAC00EF9ADA /* DemoFile.m in Sources */,
+				E906488A170ECE2D00EF9ADA /* DemofileX.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
